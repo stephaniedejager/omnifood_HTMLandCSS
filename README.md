@@ -9,3 +9,5 @@ https://udemy-certificate.s3.amazonaws.com/pdf/UC-b53bbc53-a068-4188-9fa3-fcc1a3
 Here is the website:
 
 https://stephaniedejager.github.io/omnifood_HTMLandCSS/
+
+![image](https://user-images.githubusercontent.com/68548733/167018613-9a226c8a-42f2-489f-864b-593272512ffa.png)
